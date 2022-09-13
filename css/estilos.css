@@ -1,0 +1,7 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.precios{
+    display: inline-flex;
+    color: green;    
+}
